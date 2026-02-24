@@ -1,4 +1,4 @@
-![image_alt](https://github.com/ELBATTAHAHMED/Openearthmap-Environmental-Monitoring/blob/6ea244cca391ba22ea6f5b11b737328336c0ae4d/Openearthmap-Environmental-Monitoring.png)
+![image_alt](https://github.com/ELBATTAHAHMED/Openearthmap-Environmental-Monitoring/blob/e6153af811ce900278aefbbd5bd9edb16c082856/Openearthmap-Environmental-Monitoring-img.png)
 
 # Vision Model for Environmental Monitoring (OpenEarthMap)
 
