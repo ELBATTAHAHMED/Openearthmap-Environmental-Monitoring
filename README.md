@@ -1,3 +1,5 @@
+![image_alt](https://github.com/ELBATTAHAHMED/Openearthmap-Environmental-Monitoring/blob/6ea244cca391ba22ea6f5b11b737328336c0ae4d/Openearthmap-Environmental-Monitoring.png)
+
 # Vision Model for Environmental Monitoring (OpenEarthMap)
 
 This project builds an end-to-end deep learning pipeline for environmental monitoring from aerial imagery.
